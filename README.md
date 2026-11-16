@@ -3,6 +3,13 @@
 A Flutter app for the preaching, documentaries and music on
 [allthepreaching.com](https://allthepreaching.com).
 
+## Download
+
+**[Download the Android APK](https://github.com/BaptistHub/baptisthub/raw/main/app-release.apk)** (about 57 MB)
+
+Open the file on your Android phone to install it. Android will ask you to allow installing apps
+from your browser or file manager the first time.
+
 ## Features
 
 - **Home**: a carousel of new sermons, Continue Watching, Latest, Most Watched, preachers, churches,
